@@ -45,3 +45,4 @@ def detect_changes(repo_path):
         "deleted": deleted_files,
         "renamed": renamed_files
     }
+# Testing Python code change detection
